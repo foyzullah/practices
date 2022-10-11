@@ -1,0 +1,16 @@
+div{
+    text-align: center;
+    height: 200px;
+    width: 400px;
+    margin: 20px;
+    border: 5px solid #000;
+    border-radius: 5px;
+    padding: 50px;
+    background-color: cornflowerblue;
+    color: #fff;
+    
+}
+
+.boxSizing{
+    box-sizing: border-box;
+}
